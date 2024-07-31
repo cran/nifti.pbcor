@@ -1,0 +1,8 @@
+6a2631746d8410bfa0e2f73fda2a652a *DESCRIPTION
+f4dcb4848d931a766690255db800013e *NAMESPACE
+aafd1cb312da3b14546fdb126754efb9 *R/source.R
+1878af63c2cee02737696af69dcc6db9 *inst/examples/img1.nii.gz
+07ad696b3abde90aa235eaee0a0e1979 *inst/examples/img2.nii.gz
+9f349812263f7b8b0b2c9ff3aece9c24 *inst/examples/mask.nii.gz
+f2904a2d30971df6b8a47126d1476a45 *man/nifti.pbcor_mask.Rd
+517211aea7a36618a77909208ecfcd12 *man/nifti_pbcor.Rd
